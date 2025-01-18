@@ -16,7 +16,7 @@ Setup Instructions
 ```
 git clone https://github.com/Sara900521/Flask_Api.git
 cd Flask_Api
----
+```
 
 create a new user
 
