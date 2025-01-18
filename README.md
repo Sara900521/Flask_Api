@@ -13,9 +13,10 @@ my_flask_devops_api/
 Setup Instructions
 1. Clone the Repository
 
+'''
 git clone https://github.com/Sara900521/Flask_Api.git
 cd Flask_Api
-
+'''
 create a new user
 
 curl -X POST http://localhost:5000/users -H "Content-Type: application/json" -d '{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}'
